@@ -1,10 +1,10 @@
-# robot-graspdata-manage
+# robot-grasp-manage
 智能体多层次操作表示和知识化表达图数据库增删改查
 
 ## 安装步骤
 
 ```
-git clone https://github.com/aubiao/robot-graspdata-manage.git  // 把模板下载到本地
+git clone https://github.com/aubiao/robot-grasp-manage.git  // 把模板下载到本地
 cd vue-manage-system    // 进入模板目录
 npm install         // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 yarn
 
